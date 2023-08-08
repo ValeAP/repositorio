@@ -66,9 +66,9 @@ namespace JUEGO_MAYOR_MENOR
          
                 configView.GameView.registerBetPlayer();
                 configView.GameView.throwContainer();
-                Console.WriteLine("Desea continuar juagando?s/n");
+                Console.WriteLine("Desea seguir juagando?s/N");
                 resp=Console.ReadLine();
-                if(resp=="n")
+                if(resp=="N")
                 {
                     Environment.Exit(0);
                 }
