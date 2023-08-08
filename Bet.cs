@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Este es solo un comentario 
 namespace JUEGO_MAYOR_MENOR
 {
     public class Bet

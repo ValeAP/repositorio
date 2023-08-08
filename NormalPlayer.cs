@@ -51,7 +51,7 @@ namespace JUEGO_MAYOR_MENOR
                 //Bet.IntBet = value;
             }
         }
-
+//otro comentario 
         public Bet Bet 
         { 
             get 

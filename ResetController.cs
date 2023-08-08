@@ -41,7 +41,7 @@ namespace JUEGO_MAYOR_MENOR
             {
                 Console.WriteLine("Desea continuar juagando?s/n");
                 resp = Console.ReadLine();
-                if (resp == "n")
+                if (resp == "N")
                 {
                     Environment.Exit(0);
                 }
